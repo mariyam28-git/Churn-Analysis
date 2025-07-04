@@ -1,4 +1,4 @@
-# Churn Analysis – Customer Churn Prediction using Machine Learning
+# Churn Analysis for a Subscription Service
 
 Machine learning-based churn prediction using the Telco Customer Churn dataset. This project focuses on predicting customer churn for a telecom subscription service by building an end-to-end machine learning pipeline. It covers data preprocessing, exploratory data analysis (EDA), handling class imbalance using SMOTE, training multiple classifiers (like Decision Tree, Random Forest, and XGBoost), and implementing deployment-ready prediction logic.
 
